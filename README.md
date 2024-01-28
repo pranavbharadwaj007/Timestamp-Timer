@@ -30,3 +30,14 @@ function MyComponent() {
 
 export default MyComponent;
 ```
+Hook will actually return the in milliseconds u can convert it to any format u want an example:
+```javascript
+    const formatTime = (milliseconds) => {
+      const seconds = Math.floor(milliseconds / 1000);
+      const minutes = Math.floor(seconds / 60);
+      const hours = Math.floor(minutes / 60);
+      const days = Math.floor(hours / 24);
+  
+      return `${days}:${hours % 24}:${minutes % 60}:${seconds % 60}`;
+    };
+```
