@@ -1,7 +1,7 @@
 {
   "name": "timestamp-timer",
   "version": "1.0.2",
-  "description": "Your package description",
+  "description": "Custom Timer Hook in React",
   "main": "dist/useTimestampTimer.js",
   "types": "dist/useTimestampTimer.d.ts",
   "scripts": {

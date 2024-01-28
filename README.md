@@ -2,7 +2,7 @@
 
 <img src="./timestamp-timer-logo.png" alt="timestamp-timer Logo" width="250" height="250">
 
-A NPM Package for PDF manipulation. 
+A Custom Hook for Timer in react. 
 
 ## Installation
 
