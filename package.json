@@ -1,0 +1,27 @@
+{
+  "name": "timestamp-timer",
+  "version": "1.0.0",
+  "description": "Your package description",
+  "main": "dist/useTimestampTimer.js",
+  "types": "dist/useTimestampTimer.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranavbharadwaj007/Timestamp-Timer.gi"
+  },
+  "keywords": [
+    "react",
+    "custom-hook",
+    "timer",
+    "timestamp"
+  ],
+  "author": "Pranav N",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pranavbharadwaj007/Timestamp-Timer/issues"
+  },
+  "homepage": "https://github.com/pranavbharadwaj007/Timestamp-Timer#readme"
+}
