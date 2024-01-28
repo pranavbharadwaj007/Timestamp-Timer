@@ -1,12 +1,12 @@
 {
   "name": "timestamp-timer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Your package description",
   "main": "dist/useTimestampTimer.js",
   "types": "dist/useTimestampTimer.d.ts",
   "scripts": {
     "build": "tsc",
-    "prepublishOnly": "npm run build"
+    "prepare": "npm run build"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/pranavbharadwaj007/Timestamp-Timer/issues"
   },
-  "homepage": "https://github.com/pranavbharadwaj007/Timestamp-Timer#readme"
+  "homepage": "https://github.com/pranavbharadwaj007/Timestamp-Timer#readme",
+  "files": [
+    "dist/**/*"
+  ]
 }

@@ -1,6 +1,6 @@
 # timestamp-timer
 
-<img src="./timestamp-timer.png" alt="timestamp-timer Logo" width="250" height="250">
+<img src="./timestamp-timer-logo.png" alt="timestamp-timer Logo" width="250" height="250">
 
 A NPM Package for PDF manipulation. 
 
